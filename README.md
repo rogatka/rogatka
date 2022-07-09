@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi, I'm Ilia 👋
+Java Backend Developer with more than 2 years of commertial experience.
 
-<!--
-**rogatka/rogatka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My toolbox
+*   Frameworks: Spring Framework (incl. Spring MVC, Spring Security and Spring Data), Spring Boot, Hibernate
+*   BPM: Camunda, Camunda Cockpit, Camunda Modeler
+*   Messaging: Apache Kafka, RabbitMQ
+*   Testing frameworks: JUnit, AssertJ, Mockito, Rest Assured, Testcontainers
+*   Build tools: Maven, Gradle
+*   Databases: PostgreSQL, MongoDB
+*   CI/CD: Gerrit, Gitlab, Bitbucket, Jenkins
+*   Virtualization & orchestration: Docker, Kubernetes, OpenShift, Rancher
