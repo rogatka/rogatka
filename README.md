@@ -1,5 +1,5 @@
 # Hi, I'm Ilia 👋
-Java Backend Developer with more than 2 years of commercial experience.
+Java Backend Developer with more than 2 years of production experience.
 
 ### My toolbox
 *   Frameworks: Spring Framework (incl. Spring MVC, Spring Security and Spring Data), Spring Boot, Hibernate
