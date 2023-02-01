@@ -1,4 +1,4 @@
-# Hi, I'm Ilia 👋
+# Hi, I'm Ilia 👋 
 Java Backend Developer with more than 2 years of production experience.
 
 ### My toolbox
@@ -10,3 +10,7 @@ Java Backend Developer with more than 2 years of production experience.
 *   Databases: PostgreSQL, MongoDB
 *   CI/CD: Gerrit, Gitlab, Bitbucket, Jenkins
 *   Virtualization & orchestration: Docker, Kubernetes, OpenShift, Rancher
+---
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=rogatka&style=flat-square&color=blue" alt=""/>
+</div>   
