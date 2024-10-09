@@ -2,14 +2,13 @@
 Java Backend Developer with 3+ years of production experience.
 
 ### My toolbox
-*   Java 8/11/17
+*   Java 8/11/17/21
 *   Frameworks: Spring Framework (incl. Spring MVC, Spring Security and Spring Data), Spring Boot, Hibernate
-*   BPM: Camunda, Camunda Cockpit, Camunda Modeler
 *   Messaging: Apache Kafka, RabbitMQ
-*   Testing frameworks: JUnit, AssertJ, Mockito, Rest Assured, Testcontainers
+*   Testing frameworks: JUnit, AssertJ, Mockito, Testcontainers
 *   Build tools: Maven, Gradle
 *   Databases: PostgreSQL, MongoDB
-*   CI/CD: Gerrit, Gitlab, Bitbucket, Jenkins
+*   CI/CD: Gitlab, Bitbucket, Jenkins
 *   Virtualization & orchestration: Docker, Kubernetes, OpenShift, Rancher
 ---
 <div id="header" align="center">
